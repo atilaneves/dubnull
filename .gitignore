@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+dubnull.so
+dubnull.dylib
+dubnull.dll
+dubnull.a
+dubnull.lib
+dubnull-test-*
+*.exe
+*.o
+*.obj
+*.lst
+*.a
